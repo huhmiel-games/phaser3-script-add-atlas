@@ -18,3 +18,13 @@ The scene receiving the changes must contain special comments.
   
   Start the script:
   node ./addAtlas ./src/assets/graphics/characters/player/playerAtlas <-- url of your atlas, WITHOUT THE FILE EXTENSION !!
+
+## DEMO
+Clone or download this repo
+Check the demo/scenes folder and look the LoadingScene.ts file.
+
+In the terminal:
+```
+cd demo
+node ./addAtlas ./src/assets/playerAtlas
+```
