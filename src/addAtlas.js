@@ -60,7 +60,7 @@ function startProcessing() {
 
     fs.writeFileSync(config.sceneUrl, result);
 
-    console.log('\x1b[33m%s\x1b[0m', 'Done', result);
+    console.log('\x1b[33m%s\x1b[0m', 'Done');
 }
 
 function checkFilesExists() {
