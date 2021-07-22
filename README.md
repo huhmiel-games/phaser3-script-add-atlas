@@ -28,3 +28,11 @@ In the terminal:
 cd demo
 node ./addAtlas ./src/assets/playerAtlas
 ```
+
+## CONTRIBUTE
+
+Feel free to contribute to this script, it's my first script of this kind.
+
+There is probably way better ways to do things.
+
+Thanks
